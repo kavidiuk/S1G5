@@ -1,0 +1,152 @@
+/* Your styles here */
+html{
+    text-align: center;
+}
+nav {
+    
+    background-color: black;
+}
+nav img{
+    padding: 15px;
+    width: 120px;
+    margin-inline: 35%;
+    margin: 0px;
+}
+header div{
+    /* text-align: center; */
+    background-image: url("../images/banner.jpg");
+    background-position: 100%;
+    /* width:100%; */
+    height: 300px;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    /* margin-top: 80px; */
+    
+}
+
+ /* div{
+    
+    margin-top: 10px;
+} */
+
+.immagine-computer {
+    
+    border-radius: 50%;
+    width: 50%;
+    background-size: cover;
+    margin-top: 20px;
+
+    font-family: 'Open Sans', sans-serif;
+}
+h4{
+    color: rgb(91, 159, 159);
+    margin-top: 40px;
+    margin-bottom: 17px;
+}
+button{
+    margin-top: 50px;
+}
+.primo-testo{
+    margin-top: 50px;
+}
+.blocco{
+    margin-top: 20px;
+    box-sizing: border-box;
+    /* width: 400px; */
+    height: 250px;
+    /* display: inline-block; */
+    padding: 16px;
+    margin-inline: auto;
+    background-color: red;
+    color: aliceblue;
+    font-size: 20px;
+}
+.blocco h2{
+    margin-top: 16px;
+    margin-bottom: 30px;
+}
+.blocco h3{
+    margin-top: 40px;
+}
+
+.il-tuo-pc{
+    margin-top: 20px;
+    /* box-sizing: border-box; */
+    /* width: 400px; */
+    height: 250px;
+    margin-inline: auto;
+    background-image: url(../images/foto1.jpg);
+    background-size: cover;
+    /* border: 2px black; */
+    
+}
+.testo h5{
+    margin-top: 15px;
+    color: rgb(91, 159, 159);
+}
+.testo p{
+    margin-top: 20px;
+    /* border-bottom: 4px solid black; */
+    
+}
+.blocco-pc{
+    /* margin-top: 20px; */
+    /* box-sizing: border-box; */
+    width: 400px;
+    height: 428px;
+    margin-inline: auto;
+    border: 1px solid black;
+    border-top: 0px;
+}
+
+.impara-ora{
+    margin-top: 25px;
+    width: 400px;
+    height: 428px;
+    margin-inline: auto;
+    border: 1px solid black;
+    /* border-top: 1px; */
+}
+.impara-ora img{
+    background-size: cover;
+    width: 100%;
+}
+.impara-ora h5{
+    color: rgb(91, 159, 159);
+    margin-top: 15px;
+}
+.impara-ora p{
+    margin-top: 20px;
+}
+
+.lavora-subito{
+    margin-top: 25px;
+    width: 400px;
+    height: 428px;
+    margin-inline: auto;
+    border: 1px solid black;
+}
+.lavora-subito img{
+    background-size: cover;
+    width: 100%;
+}
+.lavora-subito h5{
+    color: rgb(91, 159, 159);
+    margin-top: 15px;
+}
+.lavora-subito p{
+    margin-top: 20px;
+}
+
+footer{
+    background-color: rgb(5, 154, 165);
+    width: 100%;
+    height: 250px;
+    margin-top: 80px;
+}
+footer h2{
+    margin-top: 52px;
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+}
